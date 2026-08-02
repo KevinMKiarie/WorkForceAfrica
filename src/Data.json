@@ -1,13 +1,22 @@
-[  {    "id": 1,  
-          "title": "Software Engineer", 
-          "image":"Workforce/src/images/New folder/Software-engineer.png",
-           "location": "San Francisco, CA",   
-            "description": "We are seeking a talented software engineer to join our team. The successful candidate will have experience in developing high-quality software and a passion for delivering excellent user experiences.",    "requirements": [      "Bachelor's degree in Computer Science or a related field",      "3+ years of experience in software development",      "Strong knowledge of JavaScript and React",      "Experience with Material-UI a plus",      "Excellent communication and teamwork skills"    ]
+[
+  {
+    "id": 1,
+    "title": "Software Engineer",
+    "image": "Workforce/src/images/New folder/Software-engineer.png",
+    "location": "San Francisco, CA",
+    "description": "We are seeking a talented software engineer to join our team. The successful candidate will have experience in developing high-quality software and a passion for delivering excellent user experiences.",
+    "requirements": [
+      "Bachelor's degree in Computer Science or a related field",
+      "3+ years of experience in software development",
+      "Strong knowledge of JavaScript and React",
+      "Experience with Material-UI a plus",
+      "Excellent communication and teamwork skills"
+    ]
   },
   {
     "id": 2,
     "title": "Product Manager",
-    "image":"Workforce/src/images/New folder/Product Manager.png",
+    "image": "Workforce/src/images/New folder/Product Manager.png",
     "location": "New York, NY",
     "description": "We are seeking a creative and driven product manager to lead the development of our next generation of products. The ideal candidate will have a proven track record of delivering successful products and a deep understanding of the technology industry.",
     "requirements": [
@@ -22,7 +31,7 @@
     "id": 3,
     "title": "Frontend Developer",
     "location": "London, UK",
-    "image":"Workforce/src/images/New folder/Front-end-developer.png",
+    "image": "Workforce/src/images/New folder/Front-end-developer.png",
     "description": "We are seeking a frontend developer to join our growing team. The ideal candidate will have experience in developing modern and responsive user interfaces and a passion for delivering excellent user experiences.",
     "requirements": [
       "Bachelor's degree in Computer Science or a related field",
@@ -36,7 +45,7 @@
     "id": 4,
     "title": "Data Scientist",
     "location": "Berlin, Germany",
-    "image":"Workforce/src/images/New folder/Data-Scientist.png",
+    "image": "Workforce/src/images/New folder/Data-Scientist.png",
     "description": "We are seeking a data scientist to join our team. The ideal candidate will have experience in developing predictive models and a passion for turning data into actionable insights.",
     "requirements": [
       "Master's degree in Computer Science, Mathematics, or a related field",
@@ -50,7 +59,7 @@
     "id": 5,
     "title": "UX Designer",
     "location": "Paris, France",
-    "image":"Ui-designer.png",
+    "image": "Ui-designer.png",
     "description": "We are seeking a talented UX designer to join our team. The ideal candidate will have experience in designing intuitive and user-friendly interfaces and a passion for delivering excellent user experiences.",
     "requirements": [
       "Bachelor's degree in Graphic Design, Human-Computer Interaction, or a related field",
@@ -59,7 +68,5 @@
       "Experience with prototyping tools a plus",
       "Excellent communication and collaboration skills"
     ]
-}
-
+  }
 ]
-

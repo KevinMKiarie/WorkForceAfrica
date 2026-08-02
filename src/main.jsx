@@ -43,5 +43,5 @@ ReactDOM.createRoot(document.getElementById("root")).render(
     <ThemeProvider>
       <RouterProvider router={path} />
     </ThemeProvider>
-  </React.StrictMode>
+  </React.StrictMode>,
 );
